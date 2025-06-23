@@ -14,9 +14,7 @@ Else if b is equal to c, it prints the value of a
 Otherwise, it prints the value of b
 
 Code Example
-java
-Copy
-Edit
+
 int a = 8;
 int b = 8;
 int c = 1;
@@ -35,22 +33,13 @@ Open a terminal and navigate to the directory containing the file
 
 Compile the program using:
 
-bash
-Copy
-Edit
 javac projectUpload/oddNumb.java
 Run the program using:
 
-bash
-Copy
-Edit
 java projectUpload.oddNumb
 Output
 Given the values a = 8, b = 8, and c = 1, the output will be:
 
-Copy
-Edit
-1
 Purpose
 This program is useful for beginners to understand:
 
